@@ -1,4 +1,4 @@
-# Exercise 01 — 2-to-1 Multiplexer
+# Module 01 — 2-to-1 Multiplexer
 
 **Status:** Not started — no RTL, testbench or verification results have been uploaded.
 
